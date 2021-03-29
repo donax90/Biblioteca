@@ -1,0 +1,4 @@
+ID Prestito;ID Utente;Nome;Cognome;Titolo;Autore;Ibsn;Inizio prestito;Fine prestito
+1;1;Donato;Tanieli;1984;George Orwell;9788807903816;2021-03-24T14:31:00.921;null
+2;2;Mario;Rossi;La città di vapore;Carlos Ruiz Zafon;9788804738237;2021-03-24T14:31:05.288;null
+3;3;Giuseppe;Verdi;1984;George Orwell;9788807903816;2021-03-24T14:37:50.344;2021-03-24T14:45:24.014
